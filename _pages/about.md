@@ -7,26 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am mainly Interested in design and analysis of algorithms for network related problems.
 
 
 
-
-A data-driven personal website
+Selected Publications
 ======
 
 
-Getting started
-======
-
-Site-wide configuration
-------
-
-
-Create content & metadata
-------
-
-
-**Markdown generator**
 
 
 
