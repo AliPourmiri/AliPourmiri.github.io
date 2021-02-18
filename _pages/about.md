@@ -12,10 +12,10 @@ I am mainly Interested in design and analysis of algorithms for network related 
 I am currently a postdoctoral fellowship in [Computing Department of Macquarie Univesity](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/department-of-computing). I also got a PhD in Computer Scince from [Algorithms and Complexity Department of Max-Planck-Institute for Informatics](https://www.mpi-inf.mpg.de/departments/algorithms-complexity).
 
 
-Selected Publications
----------------------
+Research
+--------
 
-A complete list of publications can be found [here](https://dblp.uni-trier.de/pers/p/Pourmiri:Ali.html). 
+A complete list of publications can be found at my [DBLP](https://dblp.uni-trier.de/pers/p/Pourmiri:Ali.html). 
 
 
 - [Tight Analysis of Asynchronous Rumour Spreading in Dynamic Networks](http://alipourmiri.github.io/files/PODC20.pdf) **PODC'20** (with B. Mans).
@@ -28,7 +28,15 @@ A complete list of publications can be found [here](https://dblp.uni-trier.de/pe
 - [Randomised Rumour Spreading in Poorly Connected Networks](http://alipourmiri.github.io/files/DISC14.pdf) **DISC'14** (with Mehrabian).    
 - [Faster Rumour Spreading with Multiple Calls](http://alipourmiri.github.io/files/ISAAC13.pdf) **ISAAC'13** (with Panagiotou and Sauerwald).
 
+Teaching
+--------
+I was a lecturer (2017-2019) at [School of Computer Engineering](https://comp.ui.ac.ir/en) at University of Isfahan, where I taught the following courses:
 
+- Algorithms and Data Structures
+- Theory of Languages and Automata
+- Principals of Compiler Design
+- Foundations of Programming with C++
+- Algorithm Desin (graduate level)
 
 
 
