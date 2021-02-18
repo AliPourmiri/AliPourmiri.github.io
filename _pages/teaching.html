@@ -5,7 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I had been a lecturer in [School of Computer Engineering at University of Isfahan] and taught the following core computer enginenring courses:
+{% include base_path %}
 
-- Algorithms and Data Structures
-- Theory of Languages and Automata
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
