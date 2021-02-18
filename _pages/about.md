@@ -7,10 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Currently, I am a postdoctoral fellowship in [Department of Computing](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/department-of-computing) in Macquarie Univesity. I also got a PhD in Computer Scince from [Algorithms and Complexity Department] (https://www.mpi-inf.mpg.de/departments/algorithms-complexity) in Max-Planck-Institute for Informatics. Here, is my [CV](http://alipourmiri.github.io/files/CV.pdf)
+
 I am mainly Interested in design and analysis of algorithms for network related problems including information diffudion and distributed network algorithms.
-
-Currently, I am a postdoctoral fellowship in [Department of Computing](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/department-of-computing) in Macquarie Univesity. I also got a PhD in Computer Scince from [Algorithms and Complexity Department] (https://www.mpi-inf.mpg.de/departments/algorithms-complexity) in Max-Planck-Institute for Informatics.
-
 
 Research
 --------
@@ -18,7 +17,7 @@ Research
 A complete list of publications can be found at my [DBLP](https://dblp.uni-trier.de/pers/p/Pourmiri:Ali.html). 
 
 
-- [Tight Analysis of Asynchronous Rumour Spreading in Dynamic Networks](http://alipourmiri.github.io/files/PODC20.pdf) **PODC'20** (with B. Mans).
+- [Tight Analysis of Asynchronous Rumour Spreading in Dynamic Networks](http://alipourmiri.github.io/files/PODC20.pdf) **PODC'20** (with Mans).
 - [Balanced Allocation in Dynamic Hypergraphs](http://alipourmiri.github.io/files/RANDOM20.pdf) **RANDOM'20** (with Greenhill and Mans). 
 - [Coded Load Balancing in Cache Networks](http://alipourmiri.github.io/files/IEEE20.pdf) **IEEE TPDS'20** (with Jafari, Parvaresh, and Shariatpanahi).
 - [Ultra-Fast Asynchronous Randomised Rumour Spreading (Brief Announcement)](http://alipourmiri.github.io/files/SPAA19.pdf) **SPAA'19** (with Ramezani).
