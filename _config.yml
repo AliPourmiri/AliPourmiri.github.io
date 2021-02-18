@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Ali Pourmiri"
 title_separator          : "-"
 name                     : &name "Ali Pourmiri"
 description              : &description "personal description"
 url                      : https://alipourmiri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alipourmiri/alipourmiri.github.io"
+repository               : "Alipourmiri/alipourmiri.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "ali.pourmiri @ mq.edu.au"
   generatedFields:
     date:
       type               : "date"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD, Computer Science"
   location         : "Sydney, Australia"
-  employer         :
+  employer         : Macquarie University
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
