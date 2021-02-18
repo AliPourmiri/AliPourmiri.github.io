@@ -33,10 +33,10 @@ Teaching
 I was a lecturer (2017-2019) at [School of Computer Engineering](https://comp.ui.ac.ir/en) in University of Isfahan, where I taught the following courses:
 
 - Algorithms and Data Structures (Winter'17)
-- Theory of Languages and Automata (Winter'17, Fall'17, Winter 18, Fall'18)
-- Principals of Compiler Design (Fall 17, Fall 18)
-- Foundations of Programming with C++ (Fall 18)
-- Algorithm Design (graduate level) (Fall 18)
+- Theory of Languages and Automata (Winter'17, Fall'17, Winter'18, Fall'18)
+- Principals of Compiler Design (Fall'17, Fall'18, Winter'18)
+- Foundations of Programming with C++ (Fall'18)
+- Algorithm Design (graduate level) (Fall'18)
 
 
 
