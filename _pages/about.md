@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Currently, I am a postdoctoral fellowship in [Department of Computing](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/department-of-computing) in Macquarie Univesity. I also got a PhD in Computer Scince from [Algorithms and Complexity Department](https://www.mpi-inf.mpg.de/departments/algorithms-complexity) in Max-Planck-Institute for Informatics. Here, is my [CV](http://alipourmiri.github.io/files/CV.pdf)
+Currently, I am a postdoctoral fellowship in [Department of Computing](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/department-of-computing) in Macquarie Univesity. I also got a PhD in Computer Scince from [Department of Algorithms and Complexity](https://www.mpi-inf.mpg.de/departments/algorithms-complexity) in Max-Planck-Institute for Informatics. Here, is my [CV](http://alipourmiri.github.io/files/CV.pdf)
 
 I am mainly Interested in design and analysis of algorithms for network related problems including information diffudion and distributed network algorithms.
 
