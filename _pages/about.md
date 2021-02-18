@@ -30,7 +30,7 @@ A complete list of publications can be found at my [DBLP](https://dblp.uni-trier
 
 Teaching
 --------
-I was a lecturer (2017-2019) at [School of Computer Engineering](https://comp.ui.ac.ir/en) at University of Isfahan, where I taught the following courses:
+I was a lecturer (2017-2019) at [School of Computer Engineering](https://comp.ui.ac.ir/en) in University of Isfahan, where I taught the following courses:
 
 - Algorithms and Data Structures
 - Theory of Languages and Automata
