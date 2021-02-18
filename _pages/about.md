@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am mainly Interested in design and analysis of algorithms for network related problems including information diffudion and distributed network algorithms.
 
-I am currently a postdoctoral fellowship in [Computing Department of Macquarie Univesity](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/department-of-computing). I also got a PhD in Computer Scince from [Algorithms and Complexity Department of Max-Planck-Institute for Informatics](https://www.mpi-inf.mpg.de/departments/algorithms-complexity).
+Currently, I am a postdoctoral fellowship in [Department of Computing](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/department-of-computing) in Macquarie Univesity. I also got a PhD in Computer Scince from [Algorithms and Complexity Department] (https://www.mpi-inf.mpg.de/departments/algorithms-complexity) in Max-Planck-Institute for Informatics.
 
 
 Research
