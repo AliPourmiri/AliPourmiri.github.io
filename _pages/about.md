@@ -36,7 +36,7 @@ I was a lecturer (2017-2019) at [School of Computer Engineering](https://comp.ui
 - Theory of Languages and Automata
 - Principals of Compiler Design
 - Foundations of Programming with C++
-- Algorithm Desin (graduate level)
+- Algorithm Design (graduate level)
 
 
 
