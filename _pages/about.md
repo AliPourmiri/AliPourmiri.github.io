@@ -15,7 +15,7 @@ Research
 --------
 A complete list of publications can be found at my [DBLP](https://dblp.uni-trier.de/pers/p/Pourmiri:Ali.html). 
 
-#### Selected Papers
+## Selected Papers
 
 - [Tight Analysis of Asynchronous Rumour Spreading in Dynamic Networks](http://alipourmiri.github.io/files/PODC20.pdf) **PODC'20** (with Mans).
 - [Balanced Allocation in Dynamic Hypergraphs](http://alipourmiri.github.io/files/RANDOM20.pdf) **RANDOM'20** (with Greenhill and Mans). 
