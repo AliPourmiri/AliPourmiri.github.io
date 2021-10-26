@@ -9,7 +9,7 @@ redirect_from:
 ---
 Currently, I am a research associate in [The School of Computer Science and Engineering](https://www.unsw.edu.au/engineering/computer-science-and-engineering) at UNSW. I also got a PhD in Computer Scince from [Department of Algorithms and Complexity](https://www.mpi-inf.mpg.de/departments/algorithms-complexity) in Max-Planck-Institute for Informatics. Here, is my [CV](http://alipourmiri.github.io/files/CV.pdf)
 
-I am mainly Interested in design and analysis of algorithms for network related problems including information diffudion and distributed network algorithms.
+I am mainly Interested in design and analysis of algorithms for network related problems and social choice theory including information diffudion and strategyproof social mechanism.
 
 Research
 --------
